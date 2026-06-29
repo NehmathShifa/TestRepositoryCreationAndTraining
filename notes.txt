@@ -4,3 +4,5 @@ Today I learned:
 - git add
 - git commit
 - git push
+
+I am learning Git step by step 🚀
