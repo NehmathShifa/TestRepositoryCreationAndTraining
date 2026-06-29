@@ -1,0 +1,6 @@
+My Git Practice Notes
+
+Today I learned:
+- git add
+- git commit
+- git push
